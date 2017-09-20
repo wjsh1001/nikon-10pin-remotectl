@@ -1,2 +1,8 @@
 # nikon-10pin-remotectl
-python code on raspberrypi for nikon 10pin shutter release remote control
+# raspberrypi 3B module GPIO
+# python3
+# nikon 10-pin remote camera cable
+# DIY circuit
+  * 10-pin remote interface definition refer to 'nikon_10pins.gif'
+  * circuit schematic refer to 'switch.jpg'
+  
