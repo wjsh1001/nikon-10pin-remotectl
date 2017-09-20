@@ -5,4 +5,5 @@
 * DIY circuit
   * 10-pin remote interface definition refer to 'nikon_10pins.gif'
   * circuit schematic refer to 'switch.jpg'
+* create for my astronomical photography system
   
